@@ -1,0 +1,31 @@
+id,matricula,nome,setor,nivel_experiencia
+0,OPR-533,Léo Garcia,Transporte,Sênior
+1,OPR-873,Dr. Caio Viana,Perfuração,Sênior
+2,OPR-305,Thiago da Mota,Perfuração,Pleno
+3,OPR-508,Raul da Mata,Perfuração,Sênior
+4,OPR-482,Davi Miguel Rios,Beneficiamento,Sênior
+5,OPR-562,Vitor Costa,Extração,Júnior
+6,OPR-330,Ryan Moura,Extração,Pleno
+7,OPR-121,Luigi Azevedo,Carregamento,Sênior
+8,OPR-335,Isaque Rodrigues,Carregamento,Júnior
+9,OPR-107,Sr. Mateus Lima,Extração,Sênior
+10,OPR-746,Valentim Silva,Extração,Júnior
+11,OPR-169,Luiz Fernando Lima,Extração,Pleno
+12,OPR-172,Pedro Miguel Pacheco,Carregamento,Júnior
+13,OPR-385,Marcos Vinicius Machado,Perfuração,Pleno
+14,OPR-319,Sr. Igor Lopes,Carregamento,Júnior
+15,OPR-840,Dr. Vitor Hugo Porto,Carregamento,Sênior
+16,OPR-584,Ravi Pacheco,Transporte,Pleno
+17,OPR-926,Thomas Ribeiro,Beneficiamento,Júnior
+18,OPR-196,Henry Gabriel Oliveira,Extração,Sênior
+19,OPR-541,Luan Rios,Britagem,Pleno
+20,OPR-520,João Pedro Viana,Beneficiamento,Sênior
+21,OPR-155,Dr. Rafael Cavalcanti,Perfuração,Sênior
+22,OPR-761,Léo Lopes,Extração,Júnior
+23,OPR-512,João Gabriel Aragão,Perfuração,Pleno
+24,OPR-919,Benjamin Teixeira,Extração,Júnior
+25,OPR-296,Dr. Emanuel Rezende,Transporte,Sênior
+26,OPR-559,Otto Sá,Transporte,Pleno
+27,OPR-287,Luiz Henrique Monteiro,Britagem,Pleno
+28,OPR-355,Thiago Nunes,Extração,Pleno
+29,OPR-927,Kevin Dias,Carregamento,Júnior

@@ -1,0 +1,51 @@
+id,codigo,nome,fabricante,ano_fabricacao,data_aquisicao,valor_aquisicao
+0,MAQ-754,Caminhão Fora de Estrada,Caterpillar,2023-06-26,2024-09-10,438786
+1,MAQ-381,Pá Carregadeira,Komatsu,2019-05-02,2020-12-20,123158
+2,MAQ-854,Caminhão Fora de Estrada,Volvo,2024-09-23,2021-08-11,95580
+3,MAQ-704,Britador de Mandíbulas,Caterpillar,2018-05-21,2021-01-22,65622
+4,MAQ-195,Pá Carregadeira,Komatsu,2018-01-19,2024-11-09,314951
+5,MAQ-716,Escavadeira Hidráulica,Volvo,2019-06-08,2024-07-05,154248
+6,MAQ-833,Britador de Mandíbulas,Komatsu,2018-07-02,2022-12-16,285514
+7,MAQ-703,Motoniveladora,Caterpillar,2021-09-14,2022-02-01,447833
+8,MAQ-925,Trator de Esteiras,John Deere,2018-08-12,2021-06-11,228389
+9,MAQ-384,Trator de Esteiras,Komatsu,2024-07-18,2022-07-22,450290
+10,MAQ-444,Caminhão Fora de Estrada,Caterpillar,2023-01-21,2023-04-02,249191
+11,MAQ-199,Perfuratriz Rotativa,Liebherr,2017-11-27,2022-12-08,366526
+12,MAQ-370,Escavadeira Hidráulica,John Deere,2025-02-08,2022-11-03,331137
+13,MAQ-227,Britador de Mandíbulas,Caterpillar,2023-11-27,2024-02-10,339428
+14,MAQ-400,Perfuratriz Rotativa,Volvo,2024-05-25,2022-01-12,150814
+15,MAQ-821,Caminhão Fora de Estrada,Caterpillar,2023-07-10,2020-11-20,396692
+16,MAQ-333,Motoniveladora,Caterpillar,2024-06-11,2025-04-27,498432
+17,MAQ-338,Caminhão Fora de Estrada,John Deere,2020-06-16,2024-01-24,195738
+18,MAQ-564,Perfuratriz Rotativa,Komatsu,2019-04-16,2022-10-15,244081
+19,MAQ-463,Pá Carregadeira,Liebherr,2020-05-31,2025-10-01,417955
+20,MAQ-799,Caminhão Fora de Estrada,Volvo,2020-07-21,2021-08-06,382911
+21,MAQ-275,Pá Carregadeira,Komatsu,2021-11-20,2022-04-28,292357
+22,MAQ-488,Motoniveladora,Volvo,2019-09-09,2022-03-06,165141
+23,MAQ-801,Perfuratriz Rotativa,Caterpillar,2020-11-19,2024-04-03,170087
+24,MAQ-941,Escavadeira Hidráulica,Liebherr,2022-10-25,2021-01-05,260325
+25,MAQ-374,Caminhão Fora de Estrada,Komatsu,2022-08-14,2022-05-26,347365
+26,MAQ-997,Perfuratriz Rotativa,Komatsu,2020-10-21,2022-05-19,393638
+27,MAQ-611,Britador de Mandíbulas,John Deere,2021-04-08,2024-04-28,124905
+28,MAQ-371,Trator de Esteiras,Komatsu,2018-02-20,2021-11-01,440588
+29,MAQ-674,Motoniveladora,Volvo,2019-02-07,2023-11-28,274622
+30,MAQ-697,Britador de Mandíbulas,Liebherr,2024-01-17,2024-05-29,164987
+31,MAQ-241,Britador Cônico,Caterpillar,2021-11-21,2025-02-22,446247
+32,MAQ-148,Caminhão Fora de Estrada,Komatsu,2024-06-12,2021-01-16,378962
+33,MAQ-263,Britador de Mandíbulas,Volvo,2024-11-30,2021-05-04,83306
+34,MAQ-494,Britador de Mandíbulas,Volvo,2021-04-07,2022-09-03,295392
+35,MAQ-641,Motoniveladora,Volvo,2024-09-22,2021-12-14,56019
+36,MAQ-796,Caminhão Fora de Estrada,Volvo,2025-10-04,2024-05-24,443676
+37,MAQ-373,Perfuratriz Rotativa,Caterpillar,2023-06-01,2024-04-15,203878
+38,MAQ-545,Trator de Esteiras,John Deere,2025-09-07,2022-12-27,51701
+39,MAQ-839,Motoniveladora,Volvo,2020-12-03,2024-10-05,449487
+40,MAQ-282,Caminhão Fora de Estrada,Liebherr,2017-12-04,2023-08-08,491277
+41,MAQ-619,Pá Carregadeira,Komatsu,2022-04-17,2025-01-29,246038
+42,MAQ-880,Trator de Esteiras,Volvo,2023-12-01,2022-07-07,458224
+43,MAQ-643,Escavadeira Hidráulica,Volvo,2025-08-06,2023-09-22,219951
+44,MAQ-600,Escavadeira Hidráulica,Caterpillar,2022-09-12,2023-06-26,240306
+45,MAQ-999,Motoniveladora,Komatsu,2020-11-05,2025-09-24,80369
+46,MAQ-346,Caminhão Fora de Estrada,Caterpillar,2020-09-28,2025-10-08,433730
+47,MAQ-597,Caminhão Fora de Estrada,Volvo,2018-08-01,2021-08-24,451517
+48,MAQ-228,Trator de Esteiras,John Deere,2022-02-07,2021-10-11,338255
+49,MAQ-269,Motoniveladora,Volvo,2024-02-19,2025-07-23,368029

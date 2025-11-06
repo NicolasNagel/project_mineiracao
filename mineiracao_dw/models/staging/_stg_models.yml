@@ -1,0 +1,100 @@
+version: 2
+
+models:
+  - name: stg_maquinas
+    description: "Modelo staging para a tabela de cadastros de máquinas. Dados tratados e validados."
+    columns:
+      - name: id_maquina
+        description: "ID único da Máquina"
+        tests:
+          - unique
+          - not_null
+      - name: cod_maquina
+        description: "Código único de cadastro da Máquina"
+        tests:
+          - unique
+          - not_null
+      - name: fabricante
+        description: "Nome do fabricante da Máquina"
+      - name: ano_fabricacao
+        description: "Ano de fabricação da Máquina"
+      - name: dt_aquisicao
+        description: "Data de aquisição da Máquina"
+      - name: vlr_aquisicao
+        description: "Valor de aquisição da Máquina"
+      - name: etl_inserted_at
+        description: "Momento em que o dado foi atualizado no banco"
+
+  - name: stg_operadores
+    description: "Modelo staging para a tabela de cadastros de operadores. Dados tratados e validados."
+    columns:
+      - name: id_operador
+        description: "ID único do Operador"
+        tests:
+          - unique
+          - not_null
+      - name: cod_operador
+        description: "Código único de cadastro do Operador"
+        tests:
+          - unique
+          - not_null
+      - name: nome
+        description: "Nome do Operador"
+      - name: setor
+        description: "Setor que o operador trabalha"
+      - name: nivel_experiencia
+        description: "Nível de Experiência do Operador (Pode ser Júnior, Pleno ou Sênior)"
+      - name: etl_inserted_at
+        description: "Momento em que o dado foi atualizado no banco"
+
+  - name: stg_manutencoes
+    description: "Modelo staging para a tabela de manutençoes das máquinas. Dados tratados e validados."
+    columns:
+      - name: id_manutencao
+        description: "ID único de Manutenção"
+        tests:
+          - unique
+          - not_null
+      - name: cod_maquina
+        description: "Código único de cadastro da Máquina"
+        tests:
+          - not_null
+      - name: tp_manutencao
+        description: "Tipo de Manutenção realizada"
+      - name: dt_inicio
+        description: "Data de ínicio da manutenção"
+      - name: dt_fim
+        description: "Data fim da manutenção"
+      - name: tempo_parada_horas
+        description: "Tempo em que a máquina ficou parada"
+      - name: gravidade
+        description: "Gravidade da manutenção"
+      - name: vlr_custo
+        description: "Valor total da manutenção"
+      - name: etl_inserted_at
+        description: "Momento em que o dado foi atualizado no banco"
+
+  - name: stg_incidentes
+    description: "Modelo staging para a tabela de cadastros de incidentes. Dados tratados e validados."
+    columns:
+      - name: id_incidente
+        description: "ID único do Incidente"
+        tests:
+          - unique
+          - not_null
+      - name: cod_maquina
+        description: "Código único de cadastro da Máquina"
+        tests:
+          - not_null
+      - name: cod_operador
+        description: "Nome do operador que registrou o incidente"
+      - name: dt_ocorrencia
+        description: "Data de ocorrencia do incidente"
+      - name: tp_incidente
+        description: "Tipo do incidente"
+      - name: gravidade
+        description: "Gravidade do Incidente"
+      - name: vlr_custo
+        description: "Custo para correção do incidente"
+      - name: etl_inserted_at
+        description: "Momento em que o dado foi atualizado no banco"

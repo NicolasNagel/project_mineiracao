@@ -14,6 +14,8 @@ start_time = time.time()
 fake = Faker('pt_BR')
 random.seed(42)
 np.random.seed(42)
+SEEDS_PATH = './seeds/'
+os.makedirs(SEEDS_PATH, exist_ok=True)
 
 def gerar_dados_maquinas(tamanho_lote: int) -> pd.DataFrame:
     """Gera dados fictícios de máquinas e retorna um DataFrame."""
@@ -170,7 +172,7 @@ def gerar_dados_inicentes(
 
 def exportar_para_csv(
         tabelas: Dict[str, pd.DataFrame],
-        pasta: str = 'seed',
+        pasta: str = './seeds/',
         prefixo: str = 'dados_',
         index: bool = False,
         sep: str = ',',
@@ -214,7 +216,7 @@ def main():
             "manutencoes": df_manutencoes,
             "incidentes": df_incidentes
         },
-        pasta='seeds',
+        pasta=SEEDS_PATH,
         prefixo='dados_',
         index=False,
         sep=',',
@@ -227,5 +229,5 @@ def main():
     print(f"\nArquivos Gerados!\nTempo de Execução: {round(final, 2)}s")
     
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()

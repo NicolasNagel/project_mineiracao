@@ -1,0 +1,301 @@
+id,cod_maquina,cod_operador,data_ocorrencia,tipo,gravidade,custo
+1,MAQ-269,OPR-296,2020-11-09,Pneu Furado,Crítica,66208
+2,MAQ-148,OPR-335,2022-01-12,Falha Mecânica,Média,28811
+3,MAQ-463,OPR-559,2024-02-17,Erro Operacional,Média,26791
+4,MAQ-371,OPR-926,2021-04-28,Falha na Transmissão,Baixa,5000
+5,MAQ-641,OPR-919,2021-02-08,Falha no Sensor,Média,13893
+6,MAQ-799,OPR-287,2022-08-26,Vazamento de Óleo,Baixa,5000
+7,MAQ-400,OPR-287,2017-12-11,Pneu Furado,Alta,40098
+8,MAQ-597,OPR-840,2020-03-24,Pneu Furado,Crítica,71704
+9,MAQ-241,OPR-873,2022-01-31,Falha Hidráulica,Baixa,5000
+10,MAQ-371,OPR-508,2023-03-25,Falha no Sensor,Média,6288
+11,MAQ-346,OPR-482,2021-09-18,Pneu Furado,Baixa,5000
+12,MAQ-697,OPR-296,2024-11-28,Quebra de Correia,Alta,19903
+13,MAQ-600,OPR-172,2022-03-04,Falha Elétrica,Média,23422
+14,MAQ-494,OPR-172,2024-02-09,Quebra de Mangueira,Média,25097
+15,MAQ-839,OPR-305,2021-11-13,Vazamento de Óleo,Baixa,5000
+16,MAQ-597,OPR-305,2020-06-25,Pneu Furado,Média,10454
+17,MAQ-999,OPR-287,2025-05-11,Falha Elétrica,Crítica,113066
+18,MAQ-600,OPR-107,2021-02-07,Falha Mecânica,Baixa,5000
+19,MAQ-704,OPR-107,2020-11-24,Quebra de Mangueira,Crítica,72516
+20,MAQ-384,OPR-121,2025-06-25,Falha no Sensor,Média,17112
+21,MAQ-444,OPR-562,2023-06-16,Falha Elétrica,Baixa,5000
+22,MAQ-241,OPR-927,2021-03-03,Erro Operacional,Baixa,5000
+23,MAQ-674,OPR-520,2018-02-08,Quebra de Correia,Alta,30216
+24,MAQ-880,OPR-533,2022-01-13,Falha na Transmissão,Baixa,5000
+25,MAQ-494,OPR-562,2018-10-02,Falha Elétrica,Média,25203
+26,MAQ-373,OPR-107,2018-08-07,Pneu Furado,Baixa,5000
+27,MAQ-463,OPR-330,2022-12-24,Pneu Furado,Média,17969
+28,MAQ-821,OPR-172,2025-06-09,Erro Operacional,Baixa,5000
+29,MAQ-564,OPR-761,2022-12-04,Quebra de Correia,Média,21835
+30,MAQ-374,OPR-335,2021-09-08,Falha Mecânica,Crítica,116275
+31,MAQ-597,OPR-840,2020-11-05,Quebra de Correia,Crítica,109482
+32,MAQ-400,OPR-520,2019-02-01,Vazamento de Óleo,Alta,38089
+33,MAQ-228,OPR-512,2021-05-17,Falha Hidráulica,Média,25208
+34,MAQ-619,OPR-873,2022-07-03,Quebra de Correia,Crítica,112242
+35,MAQ-373,OPR-169,2024-09-01,Falha Hidráulica,Baixa,5000
+36,MAQ-799,OPR-512,2025-02-18,Pneu Furado,Crítica,68680
+37,MAQ-925,OPR-296,2023-03-10,Falha no Sensor,Alta,28159
+38,MAQ-148,OPR-927,2025-09-16,Quebra de Correia,Média,20394
+39,MAQ-697,OPR-296,2025-06-25,Quebra de Correia,Alta,31840
+40,MAQ-703,OPR-319,2024-06-13,Falha Elétrica,Média,29353
+41,MAQ-643,OPR-512,2021-07-18,Pneu Furado,Alta,29785
+42,MAQ-374,OPR-533,2017-12-10,Quebra de Correia,Média,5959
+43,MAQ-801,OPR-155,2018-03-12,Quebra de Correia,Crítica,89609
+44,MAQ-833,OPR-155,2024-12-21,Vazamento de Óleo,Baixa,5000
+45,MAQ-839,OPR-355,2022-11-30,Falha no Sensor,Baixa,5000
+46,MAQ-400,OPR-520,2022-06-14,Falha Elétrica,Média,22991
+47,MAQ-619,OPR-385,2018-07-21,Falha Elétrica,Baixa,5000
+48,MAQ-854,OPR-107,2021-10-26,Falha na Transmissão,Alta,17971
+49,MAQ-821,OPR-355,2021-07-25,Falha no Sensor,Crítica,42739
+50,MAQ-674,OPR-169,2018-09-24,Falha no Sensor,Alta,40470
+51,MAQ-997,OPR-520,2020-02-20,Falha Elétrica,Baixa,5000
+52,MAQ-338,OPR-873,2020-03-03,Quebra de Mangueira,Baixa,5000
+53,MAQ-371,OPR-121,2024-06-14,Quebra de Mangueira,Alta,44057
+54,MAQ-801,OPR-926,2023-02-23,Quebra de Mangueira,Crítica,119873
+55,MAQ-338,OPR-330,2025-05-27,Falha Elétrica,Crítica,82184
+56,MAQ-880,OPR-330,2020-11-15,Erro Operacional,Baixa,5000
+57,MAQ-275,OPR-121,2020-06-15,Falha Hidráulica,Crítica,36629
+58,MAQ-228,OPR-926,2024-07-24,Vazamento de Óleo,Alta,19496
+59,MAQ-275,OPR-919,2021-08-31,Falha Hidráulica,Alta,30269
+60,MAQ-384,OPR-482,2023-06-17,Falha no Sensor,Crítica,66342
+61,MAQ-199,OPR-508,2019-08-13,Falha Mecânica,Média,29165
+62,MAQ-488,OPR-296,2023-12-30,Vazamento de Óleo,Alta,15973
+63,MAQ-199,OPR-335,2018-09-08,Falha Mecânica,Média,3517
+64,MAQ-263,OPR-508,2022-01-13,Falha Elétrica,Alta,42588
+65,MAQ-269,OPR-169,2020-02-19,Falha no Sensor,Baixa,5000
+66,MAQ-148,OPR-121,2024-01-13,Erro Operacional,Crítica,89245
+67,MAQ-263,OPR-107,2019-08-12,Falha na Transmissão,Crítica,116363
+68,MAQ-697,OPR-287,2019-10-07,Pneu Furado,Crítica,37972
+69,MAQ-241,OPR-761,2021-08-21,Falha na Transmissão,Baixa,5000
+70,MAQ-799,OPR-541,2022-05-21,Falha Hidráulica,Crítica,40589
+71,MAQ-338,OPR-541,2018-09-06,Erro Operacional,Crítica,46540
+72,MAQ-545,OPR-584,2022-07-10,Quebra de Correia,Média,15481
+73,MAQ-833,OPR-296,2018-06-21,Falha Elétrica,Baixa,5000
+74,MAQ-371,OPR-355,2020-05-11,Vazamento de Óleo,Alta,43185
+75,MAQ-674,OPR-172,2018-03-07,Pneu Furado,Baixa,5000
+76,MAQ-611,OPR-746,2021-08-14,Quebra de Correia,Crítica,70966
+77,MAQ-643,OPR-927,2021-05-30,Falha na Transmissão,Média,8001
+78,MAQ-716,OPR-305,2024-11-14,Pneu Furado,Crítica,41957
+79,MAQ-925,OPR-926,2025-05-02,Falha Mecânica,Crítica,78843
+80,MAQ-703,OPR-385,2020-06-18,Quebra de Mangueira,Média,24954
+81,MAQ-564,OPR-541,2025-09-30,Quebra de Correia,Baixa,5000
+82,MAQ-796,OPR-584,2023-11-04,Vazamento de Óleo,Média,6394
+83,MAQ-400,OPR-287,2021-07-28,Falha Elétrica,Alta,46600
+84,MAQ-801,OPR-508,2019-12-15,Quebra de Correia,Média,21227
+85,MAQ-641,OPR-919,2023-03-13,Erro Operacional,Alta,43122
+86,MAQ-880,OPR-559,2018-01-07,Quebra de Correia,Crítica,109822
+87,MAQ-338,OPR-761,2022-06-13,Quebra de Correia,Crítica,53647
+88,MAQ-754,OPR-562,2019-12-17,Falha Hidráulica,Média,14502
+89,MAQ-384,OPR-512,2019-12-05,Falha Mecânica,Baixa,5000
+90,MAQ-227,OPR-172,2018-09-01,Pneu Furado,Crítica,99531
+91,MAQ-444,OPR-169,2019-01-05,Quebra de Correia,Baixa,5000
+92,MAQ-796,OPR-541,2020-09-02,Falha Elétrica,Média,28455
+93,MAQ-444,OPR-919,2022-12-08,Erro Operacional,Crítica,50392
+94,MAQ-716,OPR-335,2023-09-27,Falha na Transmissão,Crítica,118338
+95,MAQ-545,OPR-319,2021-11-25,Pneu Furado,Baixa,5000
+96,MAQ-228,OPR-584,2019-06-21,Falha Elétrica,Média,10063
+97,MAQ-703,OPR-107,2025-01-29,Erro Operacional,Média,17087
+98,MAQ-854,OPR-121,2018-08-08,Pneu Furado,Baixa,5000
+99,MAQ-227,OPR-107,2018-12-26,Vazamento de Óleo,Crítica,31007
+100,MAQ-564,OPR-746,2024-10-02,Falha Elétrica,Alta,31745
+101,MAQ-597,OPR-385,2018-10-23,Falha Hidráulica,Crítica,95193
+102,MAQ-494,OPR-761,2024-11-27,Vazamento de Óleo,Alta,39917
+103,MAQ-374,OPR-287,2021-06-08,Falha Mecânica,Média,5361
+104,MAQ-674,OPR-927,2024-10-08,Falha Elétrica,Baixa,5000
+105,MAQ-611,OPR-196,2018-01-24,Pneu Furado,Média,21866
+106,MAQ-703,OPR-172,2019-12-24,Falha Mecânica,Baixa,5000
+107,MAQ-839,OPR-319,2020-06-11,Quebra de Mangueira,Média,8631
+108,MAQ-833,OPR-121,2022-11-30,Pneu Furado,Crítica,87240
+109,MAQ-374,OPR-287,2021-04-12,Quebra de Correia,Baixa,5000
+110,MAQ-275,OPR-919,2019-02-16,Falha Hidráulica,Média,10260
+111,MAQ-282,OPR-508,2017-12-14,Falha no Sensor,Crítica,96910
+112,MAQ-488,OPR-512,2025-02-16,Falha Hidráulica,Alta,37896
+113,MAQ-384,OPR-335,2019-03-01,Vazamento de Óleo,Alta,21737
+114,MAQ-228,OPR-919,2018-12-02,Falha Elétrica,Alta,25018
+115,MAQ-674,OPR-919,2022-11-26,Erro Operacional,Alta,47382
+116,MAQ-282,OPR-746,2022-10-25,Falha Hidráulica,Baixa,5000
+117,MAQ-697,OPR-319,2019-02-06,Quebra de Correia,Baixa,5000
+118,MAQ-704,OPR-169,2022-10-23,Falha no Sensor,Média,22379
+119,MAQ-674,OPR-319,2023-10-04,Falha Mecânica,Crítica,70685
+120,MAQ-564,OPR-305,2021-02-28,Falha Elétrica,Crítica,78331
+121,MAQ-373,OPR-926,2019-08-20,Falha Mecânica,Baixa,5000
+122,MAQ-799,OPR-541,2019-05-21,Falha na Transmissão,Baixa,5000
+123,MAQ-371,OPR-508,2022-04-27,Quebra de Mangueira,Alta,19054
+124,MAQ-619,OPR-562,2020-02-07,Falha Mecânica,Crítica,96132
+125,MAQ-371,OPR-584,2025-07-10,Falha no Sensor,Alta,43688
+126,MAQ-801,OPR-927,2024-12-31,Quebra de Correia,Alta,38848
+127,MAQ-269,OPR-746,2023-06-14,Erro Operacional,Baixa,5000
+128,MAQ-619,OPR-746,2020-06-26,Falha Elétrica,Crítica,112691
+129,MAQ-641,OPR-155,2024-06-24,Pneu Furado,Média,6096
+130,MAQ-346,OPR-287,2022-06-25,Erro Operacional,Média,11257
+131,MAQ-716,OPR-196,2020-05-11,Falha Hidráulica,Alta,36847
+132,MAQ-619,OPR-761,2025-01-28,Pneu Furado,Média,13165
+133,MAQ-463,OPR-926,2025-07-06,Pneu Furado,Alta,20552
+134,MAQ-925,OPR-155,2020-03-29,Falha no Sensor,Média,29646
+135,MAQ-880,OPR-385,2025-06-02,Falha no Sensor,Crítica,114675
+136,MAQ-801,OPR-107,2019-02-28,Falha Hidráulica,Média,3597
+137,MAQ-269,OPR-840,2017-12-23,Vazamento de Óleo,Alta,37395
+138,MAQ-384,OPR-305,2024-03-02,Quebra de Correia,Alta,24015
+139,MAQ-269,OPR-926,2021-02-20,Falha no Sensor,Crítica,96543
+140,MAQ-275,OPR-355,2018-04-10,Erro Operacional,Crítica,116760
+141,MAQ-384,OPR-562,2023-09-22,Falha Hidráulica,Alta,39688
+142,MAQ-854,OPR-385,2020-06-03,Quebra de Mangueira,Alta,43683
+143,MAQ-839,OPR-107,2018-08-01,Falha na Transmissão,Alta,44111
+144,MAQ-821,OPR-107,2021-10-21,Falha na Transmissão,Alta,49996
+145,MAQ-643,OPR-196,2025-09-28,Falha na Transmissão,Alta,39106
+146,MAQ-269,OPR-172,2017-12-02,Falha no Sensor,Baixa,5000
+147,MAQ-370,OPR-296,2025-03-28,Erro Operacional,Baixa,5000
+148,MAQ-704,OPR-520,2024-01-30,Falha na Transmissão,Alta,31384
+149,MAQ-833,OPR-761,2018-10-26,Falha no Sensor,Média,21171
+150,MAQ-716,OPR-919,2018-11-22,Falha Hidráulica,Crítica,67363
+151,MAQ-148,OPR-482,2018-08-22,Pneu Furado,Média,17723
+152,MAQ-371,OPR-355,2020-10-01,Quebra de Mangueira,Crítica,59102
+153,MAQ-704,OPR-172,2020-05-03,Falha no Sensor,Crítica,84381
+154,MAQ-941,OPR-305,2018-10-12,Quebra de Mangueira,Média,10725
+155,MAQ-799,OPR-927,2025-02-15,Falha Elétrica,Alta,16847
+156,MAQ-384,OPR-482,2019-08-26,Falha Mecânica,Média,28931
+157,MAQ-600,OPR-559,2024-10-25,Falha Hidráulica,Média,18481
+158,MAQ-839,OPR-533,2024-08-30,Falha Elétrica,Baixa,5000
+159,MAQ-227,OPR-559,2021-09-03,Falha Hidráulica,Crítica,63544
+160,MAQ-269,OPR-107,2024-11-15,Vazamento de Óleo,Baixa,5000
+161,MAQ-704,OPR-121,2022-03-16,Pneu Furado,Média,6992
+162,MAQ-703,OPR-559,2018-09-16,Falha na Transmissão,Baixa,5000
+163,MAQ-148,OPR-196,2021-04-30,Vazamento de Óleo,Crítica,112831
+164,MAQ-611,OPR-533,2021-05-18,Erro Operacional,Alta,34088
+165,MAQ-796,OPR-385,2025-10-21,Falha Hidráulica,Média,10882
+166,MAQ-801,OPR-305,2018-11-29,Falha no Sensor,Crítica,98614
+167,MAQ-697,OPR-873,2020-08-04,Pneu Furado,Crítica,81177
+168,MAQ-597,OPR-533,2024-10-16,Quebra de Mangueira,Média,11311
+169,MAQ-821,OPR-512,2019-02-21,Falha Elétrica,Crítica,75193
+170,MAQ-854,OPR-169,2020-05-17,Falha no Sensor,Média,7371
+171,MAQ-619,OPR-562,2019-02-18,Falha na Transmissão,Média,29657
+172,MAQ-925,OPR-305,2018-01-12,Falha na Transmissão,Baixa,5000
+173,MAQ-370,OPR-873,2023-01-03,Vazamento de Óleo,Crítica,68462
+174,MAQ-463,OPR-584,2021-12-25,Pneu Furado,Crítica,71365
+175,MAQ-854,OPR-919,2025-07-10,Vazamento de Óleo,Baixa,5000
+176,MAQ-269,OPR-873,2023-09-13,Quebra de Mangueira,Média,14697
+177,MAQ-801,OPR-385,2019-09-20,Pneu Furado,Média,7078
+178,MAQ-275,OPR-562,2020-07-02,Falha na Transmissão,Baixa,5000
+179,MAQ-263,OPR-335,2022-04-28,Falha Elétrica,Baixa,5000
+180,MAQ-611,OPR-541,2020-01-02,Falha Hidráulica,Baixa,5000
+181,MAQ-833,OPR-305,2020-12-29,Quebra de Mangueira,Média,13525
+182,MAQ-371,OPR-541,2024-02-09,Pneu Furado,Média,13043
+183,MAQ-488,OPR-319,2022-02-15,Falha Mecânica,Alta,44091
+184,MAQ-611,OPR-335,2023-01-26,Falha Mecânica,Média,23147
+185,MAQ-282,OPR-172,2024-12-31,Quebra de Mangueira,Crítica,117973
+186,MAQ-384,OPR-287,2020-08-06,Erro Operacional,Alta,17040
+187,MAQ-925,OPR-305,2021-07-20,Vazamento de Óleo,Baixa,5000
+188,MAQ-941,OPR-196,2022-03-28,Falha Mecânica,Média,14866
+189,MAQ-801,OPR-169,2021-03-17,Falha na Transmissão,Alta,44486
+190,MAQ-925,OPR-584,2020-07-08,Quebra de Mangueira,Crítica,105225
+191,MAQ-619,OPR-335,2019-02-22,Vazamento de Óleo,Baixa,5000
+192,MAQ-597,OPR-562,2018-10-06,Falha na Transmissão,Crítica,33396
+193,MAQ-333,OPR-919,2023-05-11,Quebra de Correia,Baixa,5000
+194,MAQ-839,OPR-107,2020-01-22,Falha na Transmissão,Baixa,5000
+195,MAQ-925,OPR-287,2023-08-14,Falha Elétrica,Alta,23037
+196,MAQ-999,OPR-319,2023-05-25,Falha Elétrica,Baixa,5000
+197,MAQ-488,OPR-761,2019-12-27,Falha Elétrica,Média,24883
+198,MAQ-444,OPR-761,2024-11-28,Falha Hidráulica,Média,12828
+199,MAQ-400,OPR-508,2025-02-26,Vazamento de Óleo,Média,19670
+200,MAQ-241,OPR-533,2022-10-29,Quebra de Mangueira,Alta,30514
+201,MAQ-641,OPR-482,2020-10-22,Erro Operacional,Média,18315
+202,MAQ-463,OPR-172,2018-12-06,Falha na Transmissão,Crítica,38617
+203,MAQ-796,OPR-305,2022-02-05,Falha Hidráulica,Baixa,5000
+204,MAQ-195,OPR-319,2018-10-06,Falha na Transmissão,Média,24048
+205,MAQ-269,OPR-926,2020-06-26,Erro Operacional,Média,7205
+206,MAQ-611,OPR-584,2025-06-01,Falha Mecânica,Alta,23456
+207,MAQ-384,OPR-107,2022-01-04,Falha Hidráulica,Crítica,97908
+208,MAQ-999,OPR-121,2019-10-02,Quebra de Mangueira,Alta,36145
+209,MAQ-333,OPR-330,2018-04-21,Falha no Sensor,Média,5584
+210,MAQ-282,OPR-107,2025-07-04,Erro Operacional,Média,7101
+211,MAQ-619,OPR-562,2021-01-12,Erro Operacional,Crítica,95873
+212,MAQ-880,OPR-541,2023-01-15,Erro Operacional,Alta,26219
+213,MAQ-854,OPR-559,2023-01-07,Falha Mecânica,Média,21468
+214,MAQ-619,OPR-919,2025-04-08,Erro Operacional,Crítica,35958
+215,MAQ-227,OPR-919,2019-10-17,Erro Operacional,Média,24336
+216,MAQ-241,OPR-355,2017-12-31,Falha no Sensor,Baixa,5000
+217,MAQ-463,OPR-840,2024-08-16,Vazamento de Óleo,Média,24034
+218,MAQ-674,OPR-305,2025-01-17,Falha Mecânica,Baixa,5000
+219,MAQ-997,OPR-840,2024-12-15,Falha na Transmissão,Alta,43809
+220,MAQ-545,OPR-482,2019-02-10,Quebra de Mangueira,Alta,37294
+221,MAQ-488,OPR-172,2021-12-17,Falha Hidráulica,Média,27058
+222,MAQ-641,OPR-508,2022-07-01,Quebra de Mangueira,Média,19874
+223,MAQ-703,OPR-335,2019-10-14,Falha na Transmissão,Alta,45570
+224,MAQ-833,OPR-873,2022-10-09,Quebra de Correia,Alta,24232
+225,MAQ-821,OPR-287,2023-10-10,Falha Hidráulica,Baixa,5000
+226,MAQ-346,OPR-746,2025-01-29,Vazamento de Óleo,Média,21929
+227,MAQ-148,OPR-319,2018-06-21,Falha na Transmissão,Alta,47654
+228,MAQ-381,OPR-305,2019-03-11,Pneu Furado,Média,19297
+229,MAQ-227,OPR-196,2023-05-03,Quebra de Mangueira,Baixa,5000
+230,MAQ-564,OPR-840,2025-06-11,Erro Operacional,Crítica,36624
+231,MAQ-494,OPR-533,2021-03-10,Falha Elétrica,Baixa,5000
+232,MAQ-333,OPR-512,2020-06-18,Quebra de Mangueira,Baixa,5000
+233,MAQ-854,OPR-172,2020-01-16,Falha Mecânica,Baixa,5000
+234,MAQ-641,OPR-107,2024-06-01,Falha Elétrica,Alta,38758
+235,MAQ-228,OPR-926,2024-02-28,Quebra de Correia,Baixa,5000
+236,MAQ-833,OPR-172,2019-07-18,Quebra de Mangueira,Crítica,46864
+237,MAQ-801,OPR-919,2022-06-16,Falha Hidráulica,Média,21279
+238,MAQ-374,OPR-584,2020-07-23,Falha Mecânica,Alta,48365
+239,MAQ-925,OPR-761,2024-05-15,Quebra de Mangueira,Crítica,35100
+240,MAQ-384,OPR-541,2025-05-15,Falha no Sensor,Baixa,5000
+241,MAQ-839,OPR-746,2018-02-08,Falha Hidráulica,Alta,36493
+242,MAQ-373,OPR-746,2022-05-25,Falha no Sensor,Baixa,5000
+243,MAQ-697,OPR-559,2023-11-15,Falha Mecânica,Baixa,5000
+244,MAQ-643,OPR-508,2024-04-10,Pneu Furado,Média,13854
+245,MAQ-346,OPR-287,2025-01-01,Falha Mecânica,Média,29108
+246,MAQ-619,OPR-296,2019-02-20,Erro Operacional,Baixa,5000
+247,MAQ-373,OPR-840,2019-09-30,Falha Hidráulica,Alta,18365
+248,MAQ-643,OPR-121,2019-01-27,Falha Mecânica,Baixa,5000
+249,MAQ-381,OPR-319,2019-02-13,Quebra de Mangueira,Crítica,55006
+250,MAQ-997,OPR-761,2024-02-25,Vazamento de Óleo,Baixa,5000
+251,MAQ-597,OPR-512,2025-04-19,Falha Mecânica,Baixa,5000
+252,MAQ-227,OPR-926,2025-03-13,Quebra de Mangueira,Alta,48992
+253,MAQ-799,OPR-562,2019-09-24,Falha na Transmissão,Baixa,5000
+254,MAQ-488,OPR-155,2020-08-17,Quebra de Correia,Média,20900
+255,MAQ-821,OPR-335,2020-07-27,Falha no Sensor,Baixa,5000
+256,MAQ-463,OPR-919,2024-02-10,Quebra de Correia,Média,10368
+257,MAQ-799,OPR-840,2020-07-19,Quebra de Mangueira,Alta,47047
+258,MAQ-703,OPR-196,2018-11-28,Falha no Sensor,Média,12430
+259,MAQ-488,OPR-919,2025-05-26,Falha Hidráulica,Baixa,5000
+260,MAQ-564,OPR-761,2025-04-06,Falha Elétrica,Média,4378
+261,MAQ-619,OPR-335,2023-09-20,Falha na Transmissão,Média,17495
+262,MAQ-494,OPR-335,2022-03-07,Falha no Sensor,Alta,28242
+263,MAQ-833,OPR-541,2024-07-31,Erro Operacional,Média,7498
+264,MAQ-704,OPR-155,2020-06-02,Falha no Sensor,Alta,30889
+265,MAQ-704,OPR-508,2022-11-11,Pneu Furado,Alta,30259
+266,MAQ-697,OPR-508,2024-06-22,Falha Hidráulica,Média,26506
+267,MAQ-444,OPR-385,2018-06-23,Falha na Transmissão,Crítica,102135
+268,MAQ-228,OPR-107,2024-11-28,Quebra de Mangueira,Baixa,5000
+269,MAQ-704,OPR-927,2020-09-14,Falha Elétrica,Média,24164
+270,MAQ-199,OPR-385,2019-12-14,Falha Hidráulica,Alta,17444
+271,MAQ-241,OPR-562,2018-04-16,Quebra de Correia,Crítica,82034
+272,MAQ-463,OPR-196,2018-01-21,Erro Operacional,Crítica,31214
+273,MAQ-564,OPR-319,2022-09-13,Falha no Sensor,Crítica,73914
+274,MAQ-148,OPR-319,2021-04-17,Quebra de Correia,Baixa,5000
+275,MAQ-275,OPR-562,2023-08-23,Falha na Transmissão,Alta,22382
+276,MAQ-199,OPR-533,2024-07-19,Quebra de Mangueira,Média,26547
+277,MAQ-643,OPR-919,2022-05-18,Vazamento de Óleo,Média,21605
+278,MAQ-611,OPR-584,2020-03-31,Quebra de Mangueira,Alta,41574
+279,MAQ-880,OPR-508,2021-06-16,Falha Hidráulica,Crítica,82538
+280,MAQ-799,OPR-927,2021-05-28,Vazamento de Óleo,Alta,46290
+281,MAQ-941,OPR-121,2025-01-26,Falha na Transmissão,Crítica,64181
+282,MAQ-463,OPR-196,2024-05-20,Erro Operacional,Média,13801
+283,MAQ-619,OPR-169,2025-03-15,Vazamento de Óleo,Crítica,64282
+284,MAQ-703,OPR-319,2024-11-22,Quebra de Correia,Crítica,117528
+285,MAQ-643,OPR-584,2018-06-07,Quebra de Correia,Alta,41569
+286,MAQ-564,OPR-169,2019-07-05,Erro Operacional,Crítica,113717
+287,MAQ-925,OPR-840,2021-03-07,Falha Hidráulica,Alta,29360
+288,MAQ-997,OPR-761,2022-07-18,Falha no Sensor,Baixa,5000
+289,MAQ-228,OPR-121,2018-08-29,Erro Operacional,Baixa,5000
+290,MAQ-371,OPR-584,2020-03-29,Quebra de Mangueira,Crítica,98879
+291,MAQ-703,OPR-873,2020-01-22,Falha no Sensor,Crítica,103946
+292,MAQ-444,OPR-746,2018-06-05,Falha no Sensor,Alta,24820
+293,MAQ-643,OPR-330,2021-08-21,Erro Operacional,Baixa,5000
+294,MAQ-148,OPR-319,2019-02-28,Falha Mecânica,Baixa,5000
+295,MAQ-148,OPR-385,2023-04-12,Falha na Transmissão,Baixa,5000
+296,MAQ-674,OPR-155,2024-12-23,Quebra de Correia,Crítica,103242
+297,MAQ-333,OPR-559,2018-04-14,Falha Mecânica,Crítica,81897
+298,MAQ-854,OPR-385,2022-05-16,Quebra de Mangueira,Alta,19786
+299,MAQ-704,OPR-927,2021-07-04,Falha Elétrica,Crítica,100931
+300,MAQ-564,OPR-385,2018-02-09,Falha Hidráulica,Baixa,5000

@@ -10,11 +10,20 @@ seed-paths: ["seeds"]
 macro-paths: ["macros"]
 snapshot-paths: ["snapshots"]
 
+vars:
+    "dbt_date:time_zone": "Amercia/Sao_Paulo"
+
 clean-targets:         
   - "target"
   - "dbt_packages"
 
 models:
   mineiracao_dw:
-    example:
+    staging:
       +materialized: view
+
+    intermediate:
+      +materialized: table
+      
+    mart:
+      +materialized: table
