@@ -1,0 +1,20 @@
+name: 'mineiracao_dw'
+version: '1.0.0'
+
+profile: 'mineiracao_dw'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:         
+  - "target"
+  - "dbt_packages"
+
+models:
+  mineiracao_dw:
+    example:
+      +materialized: view
