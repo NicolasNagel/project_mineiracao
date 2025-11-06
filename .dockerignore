@@ -1,0 +1,17 @@
+astro
+.git
+.env
+airflow_settings.yaml
+logs/
+.venv
+airflow.db
+airflow.cfg
+**/dbt_packages/
+**/target/
+**/logs/
+**/.git/
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/.DS_Store
+**/node_modules/

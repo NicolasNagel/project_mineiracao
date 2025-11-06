@@ -1,0 +1,8 @@
+services:
+  scheduler:
+    volumes:
+      - ./dbt/mineiracao_dw:/usr/local/airflow/dbt/mineiracao_dw
+
+  dag-processor:
+    volumes:
+      - ./dbt/mineiracao_dw:/usr/local/airflow/dbt/mineiracao_dw
